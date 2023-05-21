@@ -54,3 +54,7 @@ body {
 .destroy-btn {
   text-align: right;
 }
+
+.pagination {
+  justify-content: center;
+}
